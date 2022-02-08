@@ -1,4 +1,4 @@
-# Covid_Power-BI
+# Covid19_Power-BI
 
 These dashboards show the progress of the covid pandemic in each country, continent and the world.
 Data Source...
